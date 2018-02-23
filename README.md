@@ -9,9 +9,6 @@ A platform for beginner developers to track course progress and connect with oth
   - [Shane Laymance](https://github.com/slaymance "Shane's Github")
   - [Shwetha Patrachari](https://github.com/shwetachari "Shwetha's Github")
 
-## Deployed App
-https://splasm.herokuapp.com/
-
 ## Table of Contents
 
 1. [Usage](#Usage)
